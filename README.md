@@ -8,3 +8,10 @@ A small script that splits a multi-page PDF into individual PDF files (helped me
   Install using:  
   ```bash
   pip install PyPDF2
+  
+## How to use
+- Run the script (split_pdf.py)
+- Enter:
+  The input file's name.
+  The name of the folder that the pdfs will get saved in.
+
